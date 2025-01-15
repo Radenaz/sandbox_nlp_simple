@@ -1,0 +1,5 @@
+dataset_url = url = https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data
+
+model = https://github.com/FTDS-assignment-bay/p2-ftds038-rmt-gc7-Radenaz
+
+deployment = https://huggingface.co/spaces/Radenaz/study_p2g7_senti_an
